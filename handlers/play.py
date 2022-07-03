@@ -205,7 +205,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("• sᴜᴩᴩᴏʀᴛ •", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("» ᴄʟᴏsᴇ «", callback_data="close_play")
+                    InlineKeyboardButton("» 🔮𝙊𝙒𝙉𝙀𝙍🔮 «", url="https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK")
                 ],
             ]
         ),
