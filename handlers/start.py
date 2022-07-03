@@ -22,7 +22,7 @@ async def start_(client: Client, message: Message):
 ┣★ ᴍᴀᴅᴇ ʙʏ: [𝐌𝐑_𝐁𝐇𝐀𝐓𝐀𝐊𝐓𝐈](t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)
 ┣★ ABOUT  : [𝐎𝐖𝐍𝐄𝐑](https://t.me/A_BUT)
 ┗━━━━━━━━━━━━━━┛
-IMAGE="https://telegra.ph/file/221eedfadd2dab57271bf.jpg"
+
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
