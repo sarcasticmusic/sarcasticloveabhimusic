@@ -10,7 +10,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAEENxZiNtPdibVkMsjLZrUG9NK4hotHQgAC2wEAAoM12VSdN9ujxVtnUyME")
     await message.reply_photo(
-        photo=f"",
+        photo=f"https://telegra.ph/file/221eedfadd2dab57271bf.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━
 💔 ʜᴇʏ {message.from_user.mention()} !
 
