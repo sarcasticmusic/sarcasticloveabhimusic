@@ -1,9 +1,9 @@
 {
-  "name": "ABHI MUSIC",
-  "logo": "https://telegra.ph/file/2d673cc94e655fe9ce382.jpg",
+  "name": "sarcastic music",
+  "logo": "https://telegra.ph/file/a5a9f3a446e461be37a0d.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/sarcastic962/ABHIMUSIC",
+  "repository": "https://github.com/sarcasticmusic/fallenmusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
