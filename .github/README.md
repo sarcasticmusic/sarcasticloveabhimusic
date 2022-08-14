@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>😫 𝙎𝘼𝙍𝘾𝘼𝙎𝙏𝙄𝘾𝘼𝘽𝙃𝙄 😫</b><br>
+    <br><b>😍 𝙎𝘼𝙍𝘾𝘼𝙎𝙏𝙄𝘾𝙈𝙐𝙎𝙄𝘾 😍</b><br>
 </p>
 <p align="center"><a href="https://t.me/abhi_ss99"><img src="https://telegra.ph/file/2d673cc94e655fe9ce382.jpg"></a></p>
 
@@ -59,7 +59,7 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/sarcastic962/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/sarcasticmusic/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -71,7 +71,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/sarcastic962/FallenMusic # Clone your repo.
+git clone https://github.com/sarcasticmusic/FallenMusic # Clone your repo.
 cd FallenMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
@@ -80,14 +80,14 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [ABHI](https://github.com/sarcastic962): Developer
-- [SARCASTIC MUSIC BOT](https://telegram.me/sarcasticxabhi): Test Bot
+- [ABHI](https://github.com/sarcasticmusic): Developer
+- [SARCASTIC MUSIC BOT](https://telegram.me/sarcasticmusic): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/abhi_ss99"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/sarcasticxabhi"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/mr_perfect_abhi"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/sarcasticmusic"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
