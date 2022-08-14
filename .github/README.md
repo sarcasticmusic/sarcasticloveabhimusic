@@ -1,7 +1,7 @@
 <p align="center">
     <br><b>😍 𝙎𝘼𝙍𝘾𝘼𝙎𝙏𝙄𝘾𝙈𝙐𝙎𝙄𝘾 😍</b><br>
 </p>
-<p align="center"><a href="https://t.me/abhi_ss99"><img src="https://telegra.ph/file/2d673cc94e655fe9ce382.jpg"></a></p>
+<p align="center"><a href="https://t.me/mr_perfect_abhi"><img src="https://telegra.ph/file/a5a9f3a446e461be37a0d.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
